@@ -2,7 +2,7 @@ import React from 'react'
 
 import category1 from '../images/pharmacy-WEB.avif'
 import category2 from '../images/PetCare_WEB.avif'
-import category3 from '../images/Babycare-WEB.avif'
+// import category3 from '../images/Babycare-WEB.avif'
 // first group of products
 import product1 from '../images/paan-corner_web.avif'
 import product2 from '../images/Slice-2_10.avif'
@@ -89,11 +89,11 @@ export default function ContentApp() {
         </div>
 
         {/* card 3 */}
-        <div className="w-full sm:w-1/2 lg:w-1/3 px-2 mb-4">
+        {/* <div className="w-full sm:w-1/2 lg:w-1/3 px-2 mb-4">
           <div className="bg-white rounded-lg shadow">
             <img src={category3} alt="Category 3" className="w-full h-40  rounded-md mb-4"/>
           </div>
-        </div>
+        </div> */}
       </div>
 
       {/* product grid */}
