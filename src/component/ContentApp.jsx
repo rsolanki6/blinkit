@@ -2,7 +2,7 @@ import React from 'react'
 
 import category1 from '../images/pharmacy-WEB.avif'
 import category2 from '../images/PetCare_WEB.avif'
-import category3 from '../images/babycare-WEB.avif'
+import category3 from '../images/Babycare-WEB.avif'
 // first group of products
 import product1 from '../images/paan-corner_web.avif'
 import product2 from '../images/Slice-2_10.avif'
